@@ -1,0 +1,5 @@
+beautifulsoup4=4.8.0=py37_0
+google-api-python-client=1.7.11=py_0
+google-auth-httplib2=0.0.3=py_2
+google-auth-oauthlib=0.4.0=py_0
+html5lib=1.0.1=py_0
